@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.f,.Name,.one,.btn{
+  font-family: 'Poppins', sans-serif;
+}
+.body{
+  margin-top: 50px;
+}
+a{
+  text-decoration: none;
+
+}
+.Name{
+  font-family: 'Ubuntu', sans-serif;
+}
+.heading{
+     padding-left: 245px;
+     padding-right: 200px;
+}
+.m:hover{
+   background-color: #f56565af;
+}
